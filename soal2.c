@@ -1,6 +1,19 @@
-/*
-    Nama: Moch. Dimas Ristanto
-    NIM : 13224083
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2025/2026
+* Modul : 4 - Dynamic Structures
+* Hari dan Tanggal : Senin, 04 Mei 2026
+* Nama File : soal2.c
+* Pembuat : Moch. Dimas Ristanto
+* NIM : 13224083
+* Deskripsi : Program menggabungkan dua list
+*/
+/** Perintah Kompilasi
+*
+* Linux/MacOS - gcc -o linked-list linked-list.c lib.c
+* Windows - gcc -o linked-list.exe linked-list.c lib.c
+*
+* atau dengan Makefile:
+*
+* Linux/MacOS - make
 */
 
 #include <stdio.h>
